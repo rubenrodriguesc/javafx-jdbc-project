@@ -27,7 +27,7 @@
                <graphic>
                   <ImageView fitHeight="32.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@icons/buttonAdd-32.png" />
+                        <Image url="/gui/icons/buttonAdd-32.png" />
                      </image>
                   </ImageView>
                </graphic>

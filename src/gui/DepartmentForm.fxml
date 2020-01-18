@@ -37,7 +37,7 @@
                      <graphic>
                         <ImageView fitHeight="24.0" fitWidth="24.0" pickOnBounds="true" preserveRatio="true">
                            <image>
-                              <Image url="@icons/buttonSave-24.png" />
+                              <Image url="/gui/icons/buttonSave-24.png" />
                            </image>
                         </ImageView>
                      </graphic>
@@ -46,7 +46,7 @@
                      <graphic>
                         <ImageView fitHeight="24.0" fitWidth="24.0" pickOnBounds="true" preserveRatio="true">
                            <image>
-                              <Image url="@icons/buttonCancel-24.png" />
+                              <Image url="/gui/icons/buttonCancel-24.png" />
                            </image>
                         </ImageView>
                      </graphic>
